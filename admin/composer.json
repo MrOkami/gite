@@ -1,0 +1,14 @@
+{
+    "name": "oka/admin",
+    "description": "resa gite",
+    "authors": [
+        {
+            "name": "Oka",
+            "email": "gdf38@live.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "^v6.1.3"
+    }
+}
